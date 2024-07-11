@@ -1,4 +1,4 @@
-[![MasterHead]([https://www.gifcen.com/wp-content/uploads/2022/08/discord-banner-gif-7.gif](https://gemoo.com/tools/upload-video/share/669958795975680000?codeId=M0ajwggbB1bO3&card=669958791429050368&origin=videolinkgenerator))](http:://Qambar.io)
+
 <h1 align="center">Hi 👋, I'm Qambar</h1>
 <h3 align="center">Deep Learning Aficionado | AI Innovator | Machine Learning Practitioner</h3>
 <img align="right" width = "400px"  src="https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif" alt="" />
