@@ -1,30 +1,82 @@
 ![Your first design - Half page - 300x600-930x180-px](https://github.com/Qambar-dev-0207/Qambar-dev-0207/assets/175284921/fe493b3d-207d-4454-a287-78d826114c20)
-<h1 align="center">Hi 👋, I'm Qambar</h1>
-<h3 align="center">Deep Learning Aficionado | AI Innovator | Machine Learning Practitioner</h3>
-<img align="right" width = "400px"  src="https://raw.githubusercontent.com/DamianSuess/DamianSuess/master/images/NightCoding.gif" alt="" />
-<br />
-
-
-- 🔭 I’m currently working on **Tensorflow and opencv**
-
-- 🌱 I’m currently learning **TensorFlow**
-
-- 💬 Ask me about **Scikit-learn , Python , JS**
-
-- 📫 How to reach me **work.qambar@gmail.com**
-
-- ⚡ Fun fact **I think I am funny😂**
-<br />
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammed qambar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed qambar" height="30" width="40" /></a>
-</p><br />
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a></p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qambar-dev-0207&show_icons=true&locale=en&layout=compact" alt="qambar-dev-0207" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qambar-dev-0207&show_icons=true&locale=en" alt="qambar-dev-0207" /></p>
+# ⚡ MOHAMMED QAMBAR SYED
+     ### **AI SYSTEMS ARCHITECT | MACHINE LEARNING ENGINEER**
+    
+  <div align="center">
+       <img src="https://img.shields.io/badge/AGENTIC_SYSTEMS-EXPERT-amber?style=for-the-badge&labelColor=black"
+      alt="Agentic Systems">
+       <img src="https://img.shields.io/badge/RAG_ARCHITECT-PRO-emerald?style=for-the-badge&labelColor=black" alt="RAG
+      Architect">
+       <img src="https://img.shields.io/badge/LLM_FINE_TUNING-ACTIVE-blue?style=for-the-badge&labelColor=black"
+      alt="LLM Tuning">
+     </div>
+    
+  ---
+   
+  ### 🧬 SYSTEM_OVERVIEW
+  I engineer sovereign AI systems and deep learning architectures that go beyond simple prompting. My focus is on
+      **Self-Evolving Systems**, **Multi-Agent Orchestration**, and **Retrieval-Augmented Generation (RAG)** to build
+      tools that learn, adapt, and execute with precision.
+   
+  - 🤖 **Current Focus:** Building **Apex**, a 24-layer sovereign AI assistant.
+  - 🧪 **Expertise:** LLM Fine-tuning, CNN Classification, and Agentic Workflow Design.
+  - ⚙️ **Philosophy:** Code should be autonomous. Systems should be self-correcting.
+   
+   ---
+      
+  ### 📂 CORE_MODULES (KEY PROJECTS)
+   
+  #### 🌌 [APEX: Sovereign AI Assistant](https://github.com/Qambar-dev-0207)
+  A sovereign AI personal assistant featuring a **24-layer architecture**.
+  - **Orchestration:** Routes tasks through a Gemini-based orchestrator with parallel execution.
+  - **Specialized Agents:** Dedicated modules for coding, research, memory, and hardware control.
+  - **Self-Evolution:** An OS-style system that writes its own tools and learns user behavior patterns.
+  - **Execution:** Runs locally with an intelligent fallback chain across Groq, Gemini, and OpenRouter.
+   
+  #### 📈 [PathOS: Career Intelligence Hub](https://github.com/Qambar-dev-0207/PATHOS)
+  A centralized intelligence platform for hyper-personalized career growth.
+  - **Intelligence:** Utilizes **custom fine-tuned models** to analyze candidate profiles.
+   - **Alignment:** Provides deep market alignment feedback based on real-time industry data.
+   
+  #### 🧠 [Praxis: Flow-State Learning](https://github.com/Qambar-dev-0207/PRAXISAI)
+  An AI learning engine designed to maintain user "Flow State."
+  - **Retrieval:** Uses **RAG (Retrieval-Augmented Generation)** to answer queries from a private knowledge base.
+  - **Aggregation:** Intelligently curates resources based on dynamic user interest profiles.
+   
+  #### 🍃 [LeafLens: CNN Vision System](https://github.com/Qambar-dev-0207/LEAFLENS)
+   Deep learning architecture for precision agriculture.
+  - **Computer Vision:** Employs **CNNs** to classify and diagnose plant diseases from leaf imagery.
+  - **Impact:** Focused on increasing agricultural yield through early-stage automated detection.
+   
+   ---
+### 🛠️ NEURAL_STACK
+   
+  | CATEGORY | TOOLS & TECHNOLOGIES |
+  | :--- | :--- |
+  | **Orchestration** | `Gemini ReAct` • `LangChain` • `Agentic Workflows` • `Parallel Execution` |
+  | **Models & CV** | `Fine-tuned LLMs` • `Llama 3.1` • `CNNs` • `YOLO` • `OpenCV` |
+  | **Data Systems** | `RAG` • `Vector DBs` • `MongoDB` • `Isar` • `Firebase` |
+  | **Deployment** | `Groq` • `OpenRouter` • `FastAPI` • `Node.js` • `Git/CI/CD` |
+   
+   ---
+   
+### 📊 SYSTEM_METRICS
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Qambar-dev-0207&show_icons=true&theme=tokyonight&bg_color
+   =000000&title_color=f59e0b&icon_color=f59e0b&text_color=ffffff" alt="GitHub Stats" width="48%">
+  <img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Qambar-dev-0207&layout=compact&theme=tokyonigh
+  t&bg_color=000000&title_color=10b981&text_color=ffffff" alt="Top Languages" width="48%">
+  </div>
+   
+  ---
+   
+  ### 📞 UPLINK_CHANNELS
+   - 📧 **Signal:** [work.qambar@gmail.com](mailto:work.qambar@gmail.com)
+  - 💼 **Professional Matrix:** [LinkedIn](https://linkedin.com/in/qambar-dev)
+   - 🌐 **Portfolio Node:** [qambarportfolio.netlify.app](https://qambarportfolio.netlify.app)
+   
+  <p align="center">
+  <i>"I think I am funny 😂"</i><br>
+     <b>End of Transmission.</b>
+   </p>
