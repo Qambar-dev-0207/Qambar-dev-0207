@@ -1,5 +1,5 @@
 ![Your first design - Half page - 300x600-930x180-px](https://github.com/Qambar-dev-0207/Qambar-dev-0207/assets/175284921/fe493b3d-207d-4454-a287-78d826114c20)
-     ### ⚡ MOHAMMED QAMBAR SYED
+                                                   ⚡MOHAMMED QAMBAR SYED
      
                                    **AI SYSTEMS ARCHITECT | CHIEF ENTHUSIAST OF AUTONOMOUS CHAOS**
     
