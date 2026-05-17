@@ -1,5 +1,5 @@
 ![Your first design - Half page - 300x600-930x180-px](https://github.com/Qambar-dev-0207/Qambar-dev-0207/assets/175284921/fe493b3d-207d-4454-a287-78d826114c20)
-     # ⚡ MOHAMMED QAMBAR SYED
+     ### ⚡ MOHAMMED QAMBAR SYED
      
                                    **AI SYSTEMS ARCHITECT | CHIEF ENTHUSIAST OF AUTONOMOUS CHAOS**
     
@@ -90,8 +90,8 @@
    
  ### 📞 UPLINK_CHANNELS
  - 📧 **Signal:** [work.qambar@gmail.com](mailto:work.qambar@gmail.com)
- - 💼 **Professional Network:** [LinkedIn](https://linkedin.com/in/qambar-dev)
- - 🌐 **Live Node:** [qambarportfolio.netlify.app](https://qambarportfolio.netlify.app)
+ - 💼 **Professional Network:** [LinkedIn](www.linkedin.com/in/mohammed-qambar-0466132b9)
+ - 🌐 **Live Node:** [qambar.netlify.app](https://qambar.netlify.app)
    
     <p align="center">
    18   <i>"I build things so you don't have to."</i><br>
